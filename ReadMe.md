@@ -10,17 +10,10 @@ Together, let's make this the best AI learning hub website! 🚀
                               
 -[**Multivariate Calculus for Machine Learning**](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)
 
-## 📚Chapter1: - [**Introduction**]()
-   - [**What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887)
-   - [**Computer Vision Tasks and Applications**](https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a)
-
-## 📚Chapter2: - [**Image As Function**]()
-   - [**Images as Functions Part 1?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768)
-   - [**Images as Functions Part 2?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768)
-   - [**Define an Image as a Function (Quiz)**](https://medium.com/@Coursesteach/computer-vision-part-5-b597c6e67be1)
-   - [Define a Color Image as a Function(Quiz)](https://medium.com/@Coursesteach/computer-vision-part-6-9731da76bbf5)
-   - [**Digital Images**](https://medium.com/@Coursesteach/computer-vision-part-7-4e50b0e8b653)
-   - [**Compute Image Size Quiz**](https://medium.com/@Coursesteach/computer-vision-part-8-6b19ed614360)
+## 📚Chapter1: - [**Basics Function , Gradients and Derivatives ,Time saving rules**]()
+   - [**Calculus for Machine Learning: Building Blocks for Data Science**]([https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-1-d35586a6eee8))
+   - [**Introduction to Functions**]([https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-2-e3945f87c43)
+   - [**How Calculus is useful**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-3-b53a8f9f4833)
 
    
 ## **Contributors**
