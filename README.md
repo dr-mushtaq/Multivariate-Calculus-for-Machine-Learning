@@ -1,1 +1,0 @@
-# Multivariate-Calculus-for-Machine-Learning
