@@ -11,7 +11,7 @@ Together, let's make this the best AI learning hub website! 🚀
 -[**Multivariate Calculus for Machine Learning**](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)
 
 ## 📚Chapter1: - [**Basics Function , Gradients and Derivatives ,Time saving rules**]()
-   - [**Calculus for Machine Learning: Building Blocks for Data Science**]([https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-1-d35586a6eee8))
+   - [**Calculus for Machine Learning: Building Blocks for Data Science**]([https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-1-d35586a6eee8)
    - [**Introduction to Functions**]([https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-2-e3945f87c43)
    - [**How Calculus is useful**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-3-b53a8f9f4833)
 
