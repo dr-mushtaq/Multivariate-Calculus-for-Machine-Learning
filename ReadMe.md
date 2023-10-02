@@ -12,8 +12,9 @@ Together, let's make this the best AI learning hub website! 🚀
 
 ## 📚Chapter1: - [**Basics Function , Gradients and Derivatives ,Time saving rules**]()
    - [**Calculus for Machine Learning: Building Blocks for Data Science**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-1-d35586a6eee8)
-   - [**Introduction to Functions**]([https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-2-e3945f87c43](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-2-e3945f87c43))
+   - [**Introduction to Functions**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-2-e3945f87c43](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-2-e3945f87c43)
    - [**How Calculus is useful**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-3-b53a8f9f4833)
+   - [**Understanding Derivative in Machine Learning: A Key Concept for Algorithm Optimization**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-5-84d9a9cad9ad)
   
 
    
