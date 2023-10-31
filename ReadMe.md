@@ -11,10 +11,15 @@ Together, let's make this the best AI learning hub website! 🚀
 -[**Multivariate Calculus for Machine Learning**](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)
 
 ## 📚Chapter1: - [**Basics Function , Gradients and Derivatives ,Time saving rules**]()
-   - [**Calculus for Machine Learning: Building Blocks for Data Science**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-1-d35586a6eee8)
-   - [**Introduction to Functions**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-2-e3945f87c43)
-   - [**How Calculus is useful**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-3-b53a8f9f4833)
-   - [**Understanding Derivative in Machine Learning: A Key Concept for Algorithm Optimization**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-5-84d9a9cad9ad)
+| Tutorial | Video | Code|
+|---|---|---|
+|[**1-Calculus for Machine Learning: Building Blocks for Data Science**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-1-d35586a6eee8) | Content 2 | Content 3 |
+|[**2- Introduction to Functions**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-2-e3945f87c43) | Content 5 | Content 6 |
+|[**3-How Calculus is useful**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-3-b53a8f9f4833)|---|---|
+|[**4-Understanding Derivative in Machine Learning: A Key Concept for Algorithm Optimization**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-5-84d9a9cad9ad)
+|[**5-Differentiation examples & special cases**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-5-differentiation-examples-special-cases-62d1ebb003ed)|---|
+|---|---|---|
+
   
 
    
