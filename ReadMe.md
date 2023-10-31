@@ -7,7 +7,7 @@ Contribution: We would love your help in making this repository even better! If 
 
 Together, let's make this the best AI learning hub website! 🚀
 
-## 📚Chapter1: - [**Basics Function , Gradients and Derivatives ,Time saving rules**]()
+## 📚Chapter1: - **Basics Function, Gradients and Derivatives,Time saving rules**
 | Tutorial | Video | Code|
 |---|---|---|
 |[**1-Calculus for Machine Learning: Building Blocks for Data Science**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-1-d35586a6eee8) | Content 2 | Content 3 |
