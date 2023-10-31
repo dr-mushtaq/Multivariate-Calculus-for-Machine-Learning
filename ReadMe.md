@@ -7,9 +7,6 @@ Contribution: We would love your help in making this repository even better! If 
 
 Together, let's make this the best AI learning hub website! 🚀
 
-                              
--[**Multivariate Calculus for Machine Learning**](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)
-
 ## 📚Chapter1: - [**Basics Function , Gradients and Derivatives ,Time saving rules**]()
 | Tutorial | Video | Code|
 |---|---|---|
