@@ -28,7 +28,7 @@ Together, let's make this the best AI learning hub website! 🚀
 Thanks goes to these wonderful people 
 
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
+  <img src="https://contrib.rocks/image?repo=hussain0048/Multivariate-Calculus-for-Machine-Learning"/>
 </a>
 
 
