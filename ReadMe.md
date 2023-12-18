@@ -19,7 +19,7 @@ Together, let's make this the best AI learning hub website! 🚀
 |[**🌐5-Differentiation examples & special cases**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-5-differentiation-examples-special-cases-62d1ebb003ed)|[**Video1**](https://drive.google.com/file/d/19b9Ou-E_8Fa8YvYlrG913Vu7B-ZGXTnV/view)|
 |[**🌐6-Product rule**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-6-product-rule-b4d45a239dd2)|[**Video**](https://drive.google.com/file/d/1GvOQRHuP9zqi5zC0xqx_Rqao5C8QjWxt/view)|---|
 |[**🌐7-Chain rule**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-7-chain-rule-0720e0e8ca11)|[**Video**](https://drive.google.com/file/d/1SjRlBKMftjgeksaYRpb6r-F4ItFHLdsC/view)[**-Video2**](https://drive.google.com/file/d/1prhlkKE3D5U3nkTWHb5ROMDQsQWWR0db/view)[**-Video3**](https://drive.google.com/file/d/1ShgeXZxCbJHdkzNAfHSToBnD-FSe-aLH/view)|---|
-|[**🌐8-Taming a beast**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-7-chain-rule-0720e0e8ca11)|[**1**](https://drive.google.com/file/d/1hi-GcsaQumLmwemxrJZoNZMf5VYFADnC/view)|---|
+|[**🌐8-Taming a beast**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-8-taming-a-beast-e8f673b254b1)|[**1**](https://drive.google.com/file/d/1hi-GcsaQumLmwemxrJZoNZMf5VYFADnC/view)|---|
 </details>
 
 <details> 
