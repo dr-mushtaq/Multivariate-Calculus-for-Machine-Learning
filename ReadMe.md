@@ -10,16 +10,16 @@ Together, let's make this the best AI learning hub website! 🚀
 <details> 
 <summary> <h2>📚Chapter1: - 📚Basics Function, Gradients and Derivatives,Time saving rules </h2> </summary>
   
-| Tutorial | Video | Code|
+| Topic Name/Tutorial | Video | Code|
 |---|---|---|
-|[**1-Calculus for Machine Learning: Building Blocks for Data Science**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-1-d35586a6eee8) | Content 2 | Content 3 |
-|[**2- Introduction to Functions**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-2-e3945f87c43) |[**Video**](https://drive.google.com/file/d/1ofuknBJQb26qeDE4UQn85aZ8182-SZaj/view)[**-Video2**](https://drive.google.com/file/d/1ZCkgqeaOcUbz1r4N_WuWvUX6DzEyNgIX/view) | Content 6 |
-|[**3-How Calculus is useful**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-3-b53a8f9f4833)|[**Video1**](https://drive.google.com/file/d/11xev97TRlFAll5kdgBHRs8OvNEsjUIYa/view)|---|
-|[**4-Understanding Derivative in Machine Learning: A Key Concept for Algorithm Optimization**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-5-84d9a9cad9ad)|[**Video1**](https://drive.google.com/file/d/1Pw5sGObxavlRimObBrwhk2NrYJcOAtAt/view)[**-Video2**](https://drive.google.com/file/d/1agLgVt0VuFA_knJVgM9bJu6JzvS2qIyL/view)|---|
-|[**5-Differentiation examples & special cases**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-5-differentiation-examples-special-cases-62d1ebb003ed)|[**Video1**](https://drive.google.com/file/d/19b9Ou-E_8Fa8YvYlrG913Vu7B-ZGXTnV/view)|
-|[**6-Product rule**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-6-product-rule-b4d45a239dd2)|[**Video**](https://drive.google.com/file/d/1GvOQRHuP9zqi5zC0xqx_Rqao5C8QjWxt/view)|---|
-|[**7-Chain rule**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-7-chain-rule-0720e0e8ca11)|[**Video**](https://drive.google.com/file/d/1SjRlBKMftjgeksaYRpb6r-F4ItFHLdsC/view)[**-Video2**](https://drive.google.com/file/d/1prhlkKE3D5U3nkTWHb5ROMDQsQWWR0db/view)[**-Video3**](https://drive.google.com/file/d/1ShgeXZxCbJHdkzNAfHSToBnD-FSe-aLH/view)|---|
-|[**8-Taming a beast**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-7-chain-rule-0720e0e8ca11)|[**1**](https://drive.google.com/file/d/1hi-GcsaQumLmwemxrJZoNZMf5VYFADnC/view)|---|
+|[**🌐1-Calculus for Machine Learning: Building Blocks for Data Science**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-1-d35586a6eee8) | Content 2 | Content 3 |
+|[**🌐2- Introduction to Functions**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-2-e3945f87c43) |[**Video**](https://drive.google.com/file/d/1ofuknBJQb26qeDE4UQn85aZ8182-SZaj/view)[**-Video2**](https://drive.google.com/file/d/1ZCkgqeaOcUbz1r4N_WuWvUX6DzEyNgIX/view) | Content 6 |
+|[**🌐3-How Calculus is useful**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-3-b53a8f9f4833)|[**Video1**](https://drive.google.com/file/d/11xev97TRlFAll5kdgBHRs8OvNEsjUIYa/view)|---|
+|[**🌐4-Understanding Derivative in Machine Learning: A Key Concept for Algorithm Optimization**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-5-84d9a9cad9ad)|[**Video1**](https://drive.google.com/file/d/1Pw5sGObxavlRimObBrwhk2NrYJcOAtAt/view)[**-Video2**](https://drive.google.com/file/d/1agLgVt0VuFA_knJVgM9bJu6JzvS2qIyL/view)|---|
+|[**🌐5-Differentiation examples & special cases**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-5-differentiation-examples-special-cases-62d1ebb003ed)|[**Video1**](https://drive.google.com/file/d/19b9Ou-E_8Fa8YvYlrG913Vu7B-ZGXTnV/view)|
+|[**🌐6-Product rule**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-6-product-rule-b4d45a239dd2)|[**Video**](https://drive.google.com/file/d/1GvOQRHuP9zqi5zC0xqx_Rqao5C8QjWxt/view)|---|
+|[**🌐7-Chain rule**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-7-chain-rule-0720e0e8ca11)|[**Video**](https://drive.google.com/file/d/1SjRlBKMftjgeksaYRpb6r-F4ItFHLdsC/view)[**-Video2**](https://drive.google.com/file/d/1prhlkKE3D5U3nkTWHb5ROMDQsQWWR0db/view)[**-Video3**](https://drive.google.com/file/d/1ShgeXZxCbJHdkzNAfHSToBnD-FSe-aLH/view)|---|
+|[**🌐8-Taming a beast**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-7-chain-rule-0720e0e8ca11)|[**1**](https://drive.google.com/file/d/1hi-GcsaQumLmwemxrJZoNZMf5VYFADnC/view)|---|
 </details>
   
 
