@@ -8,7 +8,7 @@ Contribution: We would love your help in making this repository even better! If 
 Together, let's make this the best AI learning hub website! 🚀
 
 <details> 
-<summary> <h2>📚Chapter1: - 📚Basics Function, Gradients and Derivatives,Time saving rules </h2> </summary>
+<summary> <h2>📚Chapter1: - Basics Function, Gradients and Derivatives,Time saving rules </h2> </summary>
   
 | Topic Name/Tutorial | Video | Code|
 |---|---|---|
@@ -20,6 +20,11 @@ Together, let's make this the best AI learning hub website! 🚀
 |[**🌐6-Product rule**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-6-product-rule-b4d45a239dd2)|[**Video**](https://drive.google.com/file/d/1GvOQRHuP9zqi5zC0xqx_Rqao5C8QjWxt/view)|---|
 |[**🌐7-Chain rule**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-7-chain-rule-0720e0e8ca11)|[**Video**](https://drive.google.com/file/d/1SjRlBKMftjgeksaYRpb6r-F4ItFHLdsC/view)[**-Video2**](https://drive.google.com/file/d/1prhlkKE3D5U3nkTWHb5ROMDQsQWWR0db/view)[**-Video3**](https://drive.google.com/file/d/1ShgeXZxCbJHdkzNAfHSToBnD-FSe-aLH/view)|---|
 |[**🌐8-Taming a beast**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-7-chain-rule-0720e0e8ca11)|[**1**](https://drive.google.com/file/d/1hi-GcsaQumLmwemxrJZoNZMf5VYFADnC/view)|---|
+</details>
+
+<details> 
+<summary> <h2>📚Chapter2: - Moving to multivariate,Jacobians, The sandpit game  </h2> </summary>
+
 </details>
   
 
