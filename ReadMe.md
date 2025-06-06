@@ -133,12 +133,12 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
    
 <details> 
-<summary> <h2>📕 Machine Learning Resources </h2> </summary>
+<summary> <h2>📕 Multivariate Calculus Resources </h2> </summary>
 
 ## 👁️ Chapter 1: - **Free Courses**
 | No. | Title/Link | Description | Reading Status | University / Platform | Feedback |
 |-----|------------|-------------|----------------|------------------------|----------|
-| 1 | [**Machine Learning Specialization**](https://www.coursera.org/specializations/machine-learning-introduction/?msockid=2542a2661bba61a702b4b7c51a616059) | By Andrew Ng, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ |
+| 1 | [**Learn Calculus by Coding in Python**](https://www.freecodecamp.org/news/learn-college-calculus-and-implement-with-python/) | By Beau Carnes, Coursera | In Progress | freeCodeCamp | ⭐️⭐️⭐️⭐️ |
 | 2 | [**Machine Learning**](https://techdevguide.withgoogle.com/paths/machine-learning/) | A free course from Google | Pending | Google |  |
 | 3 | [**Machine Learning from Scratch - Python**](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) | By Patrick Loeber (YouTube) | Pending | YouTube |  |
 | 4 | [**Machine Learning Zoomcamp**](https://github.com/DataTalksClub/machine-learning-zoomcamp) | A free 4-month course on ML engineering | Pending | DataTalks.Club |  |
