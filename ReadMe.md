@@ -114,9 +114,10 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  
 
 <details> 
-<summary> <h2>Course 01 - ⚙️Machine Learning </h2> </summary>
+<summary> <h2>Course 01 - ⚙️Multivariate Calculus for Machine Learning </h2> </summary>
+ 
 ## 📚Chapter: 1  - **Basics Function, Gradients and Derivatives,Time saving rule**
-  
+
 | Topic Name/Tutorial | Video | Code|
 |---|---|---|
 |[**🌐1-Calculus for Machine Learning: Building Blocks for Data Science**](https://medium.com/@Coursesteach/multivariate-calculus-for-machine-learning-part-1-d35586a6eee8) | Content 2 | Content 3 |
